@@ -6,3 +6,4 @@ package-lock.json
 debug.log
 .editorconfig
 *.tgz
+/.idea
